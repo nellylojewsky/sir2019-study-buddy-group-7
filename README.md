@@ -5,7 +5,7 @@
 - [Britt0508](http://github.com/Britt0508)
 - [Sa-and](http://github.com/Sa-and)
 - [GiuBarrios](http://github.com/GiuBarrios)
-- (Nelly)
+- [Nelly] (http://github.com/nellylojewsky)
 - (Serafim)
 
 ## Development Tasks
